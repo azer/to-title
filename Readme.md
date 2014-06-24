@@ -6,13 +6,12 @@
 
 ## Installation
 
-    $ component install ianstormtaylor/to-title-case
-    $ npm install to-title-case
+    $ npm install to-title
 
 ## Example
 
 ```js
-var title = require('to-title-case');
+var title = require('to-title');
 
 title('the catcher in the rye'); 
 // "The Catcher in the Rye"
