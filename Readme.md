@@ -1,6 +1,8 @@
-# to-title-case
+# to-title
 
   Convert a string to a title case.
+
+  Forked from [to-capital-case](https://github.com/ianstormtaylor/to-capital-case) for Browserify and Node support.
 
 ## Installation
 
